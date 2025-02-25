@@ -8,7 +8,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-Highly motivated and detail-oriented Cybersecurity professional with a Master’s degree in Cybersecurity and hands-on experience in security tools such as Wireshark, Kali Linux, and Python Flask. Former Programmer Analyst with two years of IT support experience at Cognizant, managing server issues, integrating solutions, and resolving production and non-production incidents. My journey in computer science has ignited a strong passion for cybersecurity, and I am eager to transition into this field by joining a Security Operations Center (SOC) as a Tier 1 Analyst. I am excited to apply my analytical and problem-solving skills to detect, investigate, and mitigate cyber threats in a dynamic SOC environment.
+Seeking a Tier 1 SOC Analyst position to transition my IT support and programming background, combined with my Master's in Cybersecurity, into a dedicated role safeguarding organizational assets.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
